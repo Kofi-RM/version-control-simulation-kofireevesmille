@@ -1,3 +1,5 @@
+Github repo : https://github.com/Kofi-RM/version-control-simulation-kofireevesmille
+
 To do this project I initial created a blank index.html file and commited that to main. I then checked out to feature/header and created a header in index.html. I then commited that change.
 
 I then checked out to main and created a new branch called feature/footer. I created a header and footer in this branch and commited the change.
